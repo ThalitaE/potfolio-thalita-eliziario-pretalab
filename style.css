@@ -74,7 +74,7 @@ li {
 
 .nome-completo {
     font-size: 36px;
-    color: #FFCC33;
+    color: #EEAD0E;
     font-weight: 700; 
     height: 45px;
 }
@@ -91,7 +91,7 @@ li {
 
 .topico-principal {
     font-size: 36px;
-    color: #FFCC33;
+    color: #EEAD0E;
 }
 
 .section-lista {
@@ -173,4 +173,3 @@ li {
     margin-bottom:16px;
     display: flex;
     align-items: center;
-}
